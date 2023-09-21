@@ -134,3 +134,8 @@ experimental/*
 
 # Weights and Biases logs
 wandb/
+
+**/wikitext-103/
+examples/language_model/wikitext-103-v1.zip
+wt103
+*.sh
